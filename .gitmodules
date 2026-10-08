@@ -1,0 +1,3 @@
+[submodule "backend/vagdhenu"]
+	path = backend/vagdhenu
+	url = https://github.com/prathoshap/vagdhenu.git
